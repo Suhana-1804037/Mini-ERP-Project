@@ -1,0 +1,9 @@
+export const Plus = ({ className }: { className?: string }) => <span className={className}>+</span>
+export const Pencil = ({ className }: { className?: string }) => <span className={className}>✎</span>
+export const Trash2 = ({ className }: { className?: string }) => <span className={className}>🗑</span>
+export const Package = ({ className }: { className?: string }) => <span className={className}>📦</span>
+export const Users = ({ className }: { className?: string }) => <span className={className}>👥</span>
+export const Truck = ({ className }: { className?: string }) => <span className={className}>🚚</span>
+export const ShoppingCart = ({ className }: { className?: string }) => <span className={className}>🛒</span>
+export const ReceiptText = ({ className }: { className?: string }) => <span className={className}>🧾</span>
+export const TakaSign = ({ className }: { className?: string }) => <span className={className}>Tk</span>
