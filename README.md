@@ -3,7 +3,7 @@
 A production-ready Mini ERP System built with React, TypeScript, Tailwind CSS, React Router, and Supabase.
 
 ## Live URL
-- Placeholder: https://your-app.vercel.app
+- Placeholder: [https://your-app.vercel.app](https://mini-erp-project-git-main-suhanabintarashid.vercel.app/login)
 
 ## GitHub URL
 - Placeholder: https://github.com/your-username/mini-erp-system
