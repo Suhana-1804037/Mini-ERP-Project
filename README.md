@@ -70,4 +70,4 @@ The app is organized into reusable UI components, route-based pages, shared type
 - Responsive UI was built with reusable Tailwind-based components for a clean assessment-ready experience
 
 ## Total Development Time
-- Placeholder: 10-13 hours
+- Placeholder: 6-8 hours
