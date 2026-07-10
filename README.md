@@ -6,7 +6,7 @@ A production-ready Mini ERP System built with React, TypeScript, Tailwind CSS, R
 - Placeholder: https://mini-erp-project-git-main-suhanabintarashid.vercel.app/login
 
 ## GitHub URL
-- Placeholder: https://github.com/your-username/mini-erp-system
+- Placeholder: https://github.com/Suhana-1804037/Mini-ERP-Project
 
 ## Features
 - Authentication with Supabase Auth
