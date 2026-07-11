@@ -40,7 +40,7 @@ export default function ProtectedLayout({ children }: { children: React.ReactNod
             ))}
           </nav>
           <div className="mt-8">
-            <Button variant="outline" className="w-full justify-start border-slate-700 bg-slate-800 text-white hover:bg-slate-700" onClick={handleLogout}>
+            <Button variant="outline" className="w-full justify-start border-slate-700 bg-slate-800 text-gray-900 hover:bg-slate-700" onClick={handleLogout}>
               <span className="mr-2">↩</span>
               Logout
             </Button>
